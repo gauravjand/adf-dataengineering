@@ -1,0 +1,19 @@
+{
+	"name": "gj_pipeline1",
+	"properties": {
+		"activities": [
+			{
+				"name": "AnotherWait_gj",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2025-01-12T02:46:50Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

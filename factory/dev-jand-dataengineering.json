@@ -1,0 +1,17 @@
+{
+	"name": "dev-jand-dataengineering",
+	"properties": {
+		"globalParameters": {
+			"TestParameter1": {
+				"type": "string",
+				"value": "GJ"
+			}
+		}
+	},
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c8eedd4c-53e8-40eb-a679-a6b86f0a168d",
+		"tenantId": "4e54fbf3-cc75-448b-b155-efee919eddae"
+	}
+}
